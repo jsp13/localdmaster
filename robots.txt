@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Crawl-Delay: 20
+
+Sitemap: http://dermaster-indonesia.com/sitemap.xml
